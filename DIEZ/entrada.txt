@@ -1,0 +1,3 @@
+Estudiantes Grupo 2: kevin.chushig@epn.edu.ec, david_amanta@gmail.com
+Soporte tecnico: admin@sub.dominio.org | Incorrecto: usuario@sinpunto
+Correo invalido: @dominio.com o nombre@.com

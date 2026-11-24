@@ -1,0 +1,3 @@
+TOKEN_CORREO_VALIDO: kevin.chushig@epn.edu.ec
+TOKEN_CORREO_VALIDO: david_amanta@gmail.com
+TOKEN_CORREO_VALIDO: admin@sub.dominio.org
