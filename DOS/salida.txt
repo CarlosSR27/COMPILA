@@ -1,0 +1,8 @@
+Comando pare recibido
+
+Comando inicio ejecutado
+
+hola
+Comando pare recibido
+ Comando inicio ejecutado
+

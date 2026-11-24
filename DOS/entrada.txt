@@ -1,0 +1,4 @@
+pare
+inicio
+hola
+pare inicio
