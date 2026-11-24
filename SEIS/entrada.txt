@@ -1,0 +1,4 @@
+int x1
+if contador 25
+else while 100
+interes ifx 7
