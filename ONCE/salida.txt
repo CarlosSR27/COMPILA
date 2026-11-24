@@ -1,0 +1,5 @@
+Binario 101 = Decimal 5
+Binario 111 = Decimal 7
+Binario 0 = Decimal 0
+Binario 11 = Decimal 3
+Binario 0111 = Decimal 7
