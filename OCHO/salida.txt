@@ -1,0 +1,3 @@
+compiladores y lenguajes - fis epn 2026b
+if (contador >= 10) then total = base + 25;
+prueba_mixta_123@epn.edu.ec
